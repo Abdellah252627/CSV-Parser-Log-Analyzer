@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Abdullah",
+    "age": "25",
+    "city": "Riyadh",
+    "job": "Developer",
+    "salary": "5000"
+  },
+  {
+    "name": "Ahmed",
+    "age": "30",
+    "city": "Jeddah",
+    "job": "Designer",
+    "salary": "4500"
+  },
+  {
+    "name": "Fatima",
+    "age": "22",
+    "city": "Dammam",
+    "job": "Manager",
+    "salary": "4800"
+  },
+  {
+    "name": "Noor",
+    "age": "28",
+    "city": "Riyadh",
+    "job": "Developer",
+    "salary": "5500"
+  },
+  {
+    "name": "Sara",
+    "age": "26",
+    "city": "Jeddah",
+    "job": "Analyst",
+    "salary": "4200"
+  },
+  {
+    "name": "Mohammed",
+    "age": "35",
+    "city": "Dammam",
+    "job": "Director",
+    "salary": "6500"
+  },
+  {
+    "name": "Layla",
+    "age": "23",
+    "city": "Riyadh",
+    "job": "Developer",
+    "salary": "4900"
+  },
+  {
+    "name": "Khaled",
+    "age": "32",
+    "city": "Jeddah",
+    "job": "Senior Dev",
+    "salary": "6000"
+  }
+]
