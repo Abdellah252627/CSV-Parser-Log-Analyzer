@@ -1,0 +1,14 @@
+{
+  "name": "csv-parser",
+  "version": "1.0.0",
+  "description": "CSV to JSON Parser with Analysis",
+  "type": "module",
+  "main": "src/cli.js",
+  "scripts": {
+    "start": "node src/cli.js",
+    "dev": "node --watch src/cli.js"
+  },
+  "keywords": ["csv", "parser", "json"],
+  "author": "Abdullah",
+  "license": "ISC"
+}
